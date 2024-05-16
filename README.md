@@ -20,7 +20,7 @@ La hibridación es un fenómeno dado en el mundo del software dónde dos medios 
 En este ensayo, vamos a trabajar dos ejemplos de hibridación según Manovich:
 <ul>
   <li><b>Reddit</b></li>
-  <li><b>VRDesktop</b></li>
+  <li><b>Virtual Desktop</b></li>
 </ul>
 
 

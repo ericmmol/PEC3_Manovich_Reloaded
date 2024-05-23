@@ -6,19 +6,20 @@
 Autor: Eric Mesa
 
 
-Fecha: XX/05/2024
+Fecha: 23/05/2024
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Social_networking_services.jpg/800px-Social_networking_services.jpg?20140512202701"></img>
-
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Social_networking_services.jpg/800px-Social_networking_services.jpg?20140512202701"/>
+</p>
 
 
 ## Introducción
 
-Actualmente hacemos uso de la tecnología para distintos fines que nos condicionan en nuestro día a día. Utilizamos distintas herramientas para uso laboral, lúdico, doméstico y en una una infinidad de finalidades. Aunque todo avance a un ritmo frenético, el software como medio evoluciona a pasos agigantados, combinando herramientas y distintos medios a la vez, creando propuestas más funcionales y útiles. Todo ello es resultado de la <b>Hibridación</b>.
+Actualmente hacemos uso de la tecnología para distintos fines que nos condicionan en nuestro día a día. Utilizamos distintas herramientas para uso laboral, lúdico, doméstico y en una una infinidad de finalidades. Hoy en día la tecnología avanza a un ritmo frenético, y lógicamente con ello el software como medio evoluciona a pasos agigantados, combinando herramientas y distintos medios a la vez. Todo ello crea propuestas más funcionales y útiles, resultado de la <b>Hibridación</b> según Manovich.
 
-La hibridación es un fenómeno dado en el mundo del software dónde dos medios se combinan para dar lugar a una experiencia mejorada. Gracias a ello podemos encontrar propuestas cada vez más atractivas y interactivas, que dan valor y utilidad a muchos programas presentes en nuestros dispositivos móviles y ordenadores. No solamente incorporamos los medios tradicionales en el software, sino que los combinamos y conseguimos crear nuevos medios interactivos más completos y útiles, evolucionando de forma constante.
+La hibridación es un fenómeno dado en el mundo del software dónde dos medios se combinan para dar lugar a una experiencia mejorada. Gracias a ello podemos encontrar propuestas cada vez más atractivas y interactivas, que dan valor y utilidad a muchos programas presentes en nuestros dispositivos móviles y ordenadores. No solamente incorporamos los medios tradicionales en el software, sino que los combinamos y conseguimos crear nuevos medios interactivos más completos y útiles, que evolucionan de forma constante.
 
-Por ejemplo, para reproducir nuestra música favorita, antaño ejecutabamos un reproductor de mp3 en nuestro ordenador. Hoy en día existen infinidad de software interactivo que cumplen la misma función pero que la complementan incorporando funciones sociales, cración de listas personalizadas e incluso la inclusión de formatos en vídeo de los artistas que más te interesen.
+Por ejemplo, para reproducir nuestra música favorita, antaño ejecutabamos un reproductor de "mp3" en nuestro ordenador. Hoy en día existen infinidad de programas interactivos que cumplen la misma función pero que la complementan incorporando funciones sociales, cración de listas personalizadas e incluso la inclusión de formatos en vídeo de los artistas que más te interesen.
 
 En este ensayo no nos centraremos en un reproductor de música, sino que vamos a trabajar dos ejemplos de hibridación según Manovich los cuales tengo especial afecto y uso de forma usual:
 <ul>
@@ -34,14 +35,17 @@ En este ensayo no nos centraremos en un reproductor de música, sino que vamos a
 
 ### ¿Qué es Reddit?
 
-Reddit es un portal web que consta de foros específicos por temática, denominados "subreddits". Cada uno de ellos trata sobre un tema en concreto, precedido por el prefijo "r/", de forma que podemos encontrar información sobre acuarios en r/aquarium, información sobre relojes casio en r/casio y así con cualquier temática. Dentro de cada "subreddit", encontramos diferentes hilos o temas, creados por usuarios. Dentro de cada hilo, encontramos un contenido principal que lo cuelga la persona que crea el hilo, y a partir de esa información, se desarrolla un hilo de comentarios y contribuciones sin límites, pudiendo contestar a otros comentarios, comentando el hilo principal y lo más importante, votar positivamente o negativamente tanto el hilo principal como cualquier comentario. Todo ello tiene el objetivo de motivar la participación y valorar las contribuciones (positivas o negativas) del resto de usuarios.
+Reddit es un portal web que consta de foros específicos por temática, denominados "subreddits". Cada uno de ellos trata sobre un tema en concreto, precedido por el prefijo "r/", de forma que podemos encontrar información sobre acuarios en r/aquarium, información sobre relojes casio en r/casio y así con cualquier temática. Dentro de cada "subreddit", encontramos diferentes hilos o temas, creados por usuarios. Asímismo, dentro de cada hilo encontraremos un contenido principal que presenta el autor de éste, y a partir de esa información, se desarrolla un hilo de comentarios y contribuciones sin límites. Esto incluye la posibilidad de contestar a otros comentarios, comentar el hilo principal y lo más importante, votar positivamente o negativamente tanto el hilo principal como cualquier comentario. Todo ello tiene el objetivo de motivar la participación y valorar las contribuciones (positivas o negativas) del resto de usuarios.
 
 ### Hibridación en Reddit
 
 El portal es un ejemplo claro de hibridación de distintos medios según Manovich. El portal ofrece foros que combinan textos junto a imágenes y vídeos compartidas por los mismos usuarios de la plataforma. Esto da lugar a una hibridación clara entre elementos gráficos estáticos (imágenes), dinámicos (vídeos y GIF's) y interacción entre usuarios mediante textos. No obstante eso es solo el inicio, ya que Reddit tiene más funciones hibridadas dentro de lo que nos ofrece:
 
 #### 1. Sistema de puntuación
-Entre los usuarios existe un sistema de puntuación simple que se representa mediante un número. Para votar positivamente, se hace clic en una flecha que apunta hacia arriba, para votar negativamente, se utiliza una flecha que apunta hacia abajo. Esto aplica tanto a temas iniciados como a comentarios dentro de un tema iniciado, de forma que si un tema tiene muchos votos positivos, querrá decir que el contenido es bueno y se mostrará a más usuarios en una posición más favorable. De lo contrario, cuando un tema recibe nuchos votos negativos, será omitido para muchos usuarios e incluso será eliminado por los moderadores del "subreddit" en cuestión, ya que querrá decir que el contenido es de mal gusto, no es referente al tema del "subreddit" o simplemente se trata de un contenido "troll" (con finalidad de molestar o bromear)
+Entre los usuarios existe un sistema de puntuación simple que se representa mediante un número. Para votar positivamente, se hace clic en una flecha que apunta hacia arriba, para votar negativamente, se utiliza una flecha que apunta hacia abajo. Esto aplica tanto a temas iniciados como a comentarios dentro de un tema iniciado, de forma que si un tema tiene muchos votos positivos, querrá decir que el contenido es bueno y se mostrará a más usuarios en una posición más favorable. De lo contrario, cuando un tema recibe nuchos votos negativos, será omitido para muchos usuarios e incluso será eliminado por los moderadores del "subreddit" en cuestión, ya que querrá decir que el contenido es de mal gusto, no es referente al tema del "subreddit" o simplemente se trata de un contenido "troll" (con finalidad de molestar o bromear).
+
+Todo ello se complementa además con un sistema de logros y medallas dependiendo de las contribuciones que hayas hecho y si las interacciones que has llevado a cabo han sido valoradas por la comunidad o no mediante el sistema de puntuación.
+
 <p align="center">
   <img src="https://i.redd.it/idk4xqlkq7g01.jpg"/>
 </p>
@@ -56,11 +60,11 @@ Con todo ello podemos ver que Reddit se trata de un buen ejemplo de hibridación
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Oculus-Rift-CV1-Headset-Front.jpg"></img>
 
-La tecnología de realidad virtual es uno de los avances más interesantes de los últimos años, teniendo un gran potencial de cambios y permitiendo una creación artística y lúdica sin precedentes. El caso de hibridación que estudiamos es el del software llamado <b>Virtual Desktop</b>, el cual combina la experiencia de un ordenador de sobremesa con la tecnología de un visor de realidad virtual (Oculus, Index, Vive, etc...)
+La tecnología de realidad virtual es uno de los avances más interesantes de los últimos años, abriendo un gran abanico de posibilidades y permitiendo una creación artística y lúdica sin precedentes. El caso de hibridación que estudiamos es el del software llamado <b>Virtual Desktop</b>, el cual combina la experiencia de un ordenador de sobremesa con la tecnología de un visor de realidad virtual (Oculus, Index, Vive, etc...). 
 
-### ¿Cómo lo hace?
+### ¿De qué trata?
 
-El software permite visualizar y controlar la pantalla de tu ordenador de sobremesa con los controles del equipo de RV. No obstante eso es solo una pincelada, ya que también permite visualizar contenido multimedia almacenado en tu ordenador, como por ejemplo películas, imágenes, etc. Al utilizar un equipo de realidad virtual, las posibilidades se expanden y es posible visualizar vídeos 360º e incluso jugar a videojuegos diseñados para RV.
+El software permite visualizar y controlar la pantalla de tu ordenador de sobremesa con los controles del equipo de RV. No obstante eso es solo una pincelada, ya que también permite visualizar contenido multimedia almacenado en tu ordenador, como por ejemplo películas, imágenes, etc. Al utilizar un equipo de realidad virtual, las posibilidades se expanden y es posible visualizar vídeos 360º e incluso jugar a videojuegos diseñados para RV. Por ello, es un programa ampliamente usado principalmente a la hora de jugar a videojuegos "VR" por conexión inalámbrica y visualizar películas guardadas en el ordenador de sobremesa ya que es único y aunque en la actualidad han aparecido otras opciones en el mercado (Steam Link, Quest Link...) sigue siendo la referencia como se pueden ver en algunos artículos en la web como el de <a href="https://arvrjourney.com/test-oculus-link-vs-air-link-vs-virtual-desktop-7e0828fab0d3">Arvrjourney</a>.
 
 <p align="center">
   <img src="https://cdn.akamai.steamstatic.com/steam/apps/382110/capsule_616x353.jpg?t=1698249040"/>
@@ -78,11 +82,14 @@ Un ejemplo claro de cómo VRDesktop consigue hibridar distintos medios fusionand
 
 ### Referencias y Bibliografía
 
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-Imágenes Reddit:
+* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
+* Página oficial VRDesktop: https://www.vrdesktop.net/
+* Página oficial Reddit: https://www.reddit.com/
+* Comparativa software VRDesktop vs Link: https://arvrjourney.com/test-oculus-link-vs-air-link-vs-virtual-desktop-7e0828fab0d3
+* Imágenes Reddit:
 Licencia de Dominio Público: https://en.wikipedia.org/wiki/File:Reddit_logo.png
 Imágen proveniente del foro Reddit: https://i.redd.it/idk4xqlkq7g01.jpg
-Imagenes VRDesktop:
+* Imagenes VRDesktop:
 Imágen proveniente de Steam: https://cdn.akamai.steamstatic.com/steam/apps/382110/capsule_616x353.jpg?t=1698249040
 Liencia de Dominio Público: https://commons.wikimedia.org/wiki/File:Oculus-Rift-CV1-Headset-Front.jpg
 
